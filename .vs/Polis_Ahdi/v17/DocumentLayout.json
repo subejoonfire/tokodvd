@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\source\\repos\\Polis_Ahdi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74518B12-E8E0-44BA-97C3-FA2FACE7C46D}|Polis_Ahdi\\Polis_Ahdi.vbproj|c:\\users\\administrator\\source\\repos\\polis_ahdi\\polis_ahdi\\view user\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{74518B12-E8E0-44BA-97C3-FA2FACE7C46D}|Polis_Ahdi\\Polis_Ahdi.vbproj|solutionrelative:polis_ahdi\\view user\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74518B12-E8E0-44BA-97C3-FA2FACE7C46D}|Polis_Ahdi\\Polis_Ahdi.vbproj|C:\\Users\\Administrator\\source\\repos\\Polis_Ahdi\\polis_ahdi\\view user\\sidebar.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{74518B12-E8E0-44BA-97C3-FA2FACE7C46D}|Polis_Ahdi\\Polis_Ahdi.vbproj|solutionrelative:polis_ahdi\\view user\\sidebar.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74518B12-E8E0-44BA-97C3-FA2FACE7C46D}|Polis_Ahdi\\Polis_Ahdi.vbproj|C:\\Users\\Administrator\\source\\repos\\Polis_Ahdi\\polis_ahdi\\view user\\beranda.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{74518B12-E8E0-44BA-97C3-FA2FACE7C46D}|Polis_Ahdi\\Polis_Ahdi.vbproj|solutionrelative:polis_ahdi\\view user\\beranda.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74518B12-E8E0-44BA-97C3-FA2FACE7C46D}|Polis_Ahdi\\Polis_Ahdi.vbproj|c:\\users\\administrator\\source\\repos\\polis_ahdi\\polis_ahdi\\view user\\koleksi.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{74518B12-E8E0-44BA-97C3-FA2FACE7C46D}|Polis_Ahdi\\Polis_Ahdi.vbproj|solutionrelative:polis_ahdi\\view user\\koleksi.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74518B12-E8E0-44BA-97C3-FA2FACE7C46D}|Polis_Ahdi\\Polis_Ahdi.vbproj|C:\\Users\\Administrator\\source\\repos\\Polis_Ahdi\\polis_ahdi\\model\\koleksi_m.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{74518B12-E8E0-44BA-97C3-FA2FACE7C46D}|Polis_Ahdi\\Polis_Ahdi.vbproj|solutionrelative:polis_ahdi\\model\\koleksi_m.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74518B12-E8E0-44BA-97C3-FA2FACE7C46D}|Polis_Ahdi\\Polis_Ahdi.vbproj|C:\\Users\\Administrator\\source\\repos\\Polis_Ahdi\\polis_ahdi\\model\\genre_m.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{74518B12-E8E0-44BA-97C3-FA2FACE7C46D}|Polis_Ahdi\\Polis_Ahdi.vbproj|solutionrelative:polis_ahdi\\model\\genre_m.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74518B12-E8E0-44BA-97C3-FA2FACE7C46D}|Polis_Ahdi\\Polis_Ahdi.vbproj|C:\\Users\\Administrator\\source\\repos\\Polis_Ahdi\\polis_ahdi\\view user\\koleksi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{74518B12-E8E0-44BA-97C3-FA2FACE7C46D}|Polis_Ahdi\\Polis_Ahdi.vbproj|solutionrelative:polis_ahdi\\view user\\koleksi.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74518B12-E8E0-44BA-97C3-FA2FACE7C46D}|Polis_Ahdi\\Polis_Ahdi.vbproj|C:\\Users\\Administrator\\source\\repos\\Polis_Ahdi\\polis_ahdi\\view user\\beranda.aspx.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{74518B12-E8E0-44BA-97C3-FA2FACE7C46D}|Polis_Ahdi\\Polis_Ahdi.vbproj|solutionrelative:polis_ahdi\\view user\\beranda.aspx.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74518B12-E8E0-44BA-97C3-FA2FACE7C46D}|Polis_Ahdi\\Polis_Ahdi.vbproj|C:\\Users\\Administrator\\source\\repos\\Polis_Ahdi\\polis_ahdi\\view user\\footer.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{74518B12-E8E0-44BA-97C3-FA2FACE7C46D}|Polis_Ahdi\\Polis_Ahdi.vbproj|solutionrelative:polis_ahdi\\view user\\footer.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74518B12-E8E0-44BA-97C3-FA2FACE7C46D}|Polis_Ahdi\\Polis_Ahdi.vbproj|C:\\Users\\Administrator\\source\\repos\\Polis_Ahdi\\polis_ahdi\\view user\\login.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{74518B12-E8E0-44BA-97C3-FA2FACE7C46D}|Polis_Ahdi\\Polis_Ahdi.vbproj|solutionrelative:polis_ahdi\\view user\\login.aspx.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74518B12-E8E0-44BA-97C3-FA2FACE7C46D}|Polis_Ahdi\\Polis_Ahdi.vbproj|C:\\Users\\Administrator\\source\\repos\\Polis_Ahdi\\polis_ahdi\\model\\akun_m.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{74518B12-E8E0-44BA-97C3-FA2FACE7C46D}|Polis_Ahdi\\Polis_Ahdi.vbproj|solutionrelative:polis_ahdi\\model\\akun_m.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Polis_Ahdi\\Polis_Ahdi\\view user\\Login.aspx",
+              "RelativeDocumentMoniker": "Polis_Ahdi\\view user\\Login.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Polis_Ahdi\\Polis_Ahdi\\view user\\Login.aspx",
+              "RelativeToolTip": "Polis_Ahdi\\view user\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-23T11:51:41.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Koleksi.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Polis_Ahdi\\Polis_Ahdi\\view user\\Koleksi.aspx",
+              "RelativeDocumentMoniker": "Polis_Ahdi\\view user\\Koleksi.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Polis_Ahdi\\Polis_Ahdi\\view user\\Koleksi.aspx",
+              "RelativeToolTip": "Polis_Ahdi\\view user\\Koleksi.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-23T11:25:53.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Genre_m.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Polis_Ahdi\\Polis_Ahdi\\model\\Genre_m.vb",
+              "RelativeDocumentMoniker": "Polis_Ahdi\\model\\Genre_m.vb",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Polis_Ahdi\\Polis_Ahdi\\model\\Genre_m.vb",
+              "RelativeToolTip": "Polis_Ahdi\\model\\Genre_m.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-23T11:21:58.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Koleksi_m.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Polis_Ahdi\\Polis_Ahdi\\model\\Koleksi_m.vb",
+              "RelativeDocumentMoniker": "Polis_Ahdi\\model\\Koleksi_m.vb",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Polis_Ahdi\\Polis_Ahdi\\model\\Koleksi_m.vb",
+              "RelativeToolTip": "Polis_Ahdi\\model\\Koleksi_m.vb",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCgAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-23T10:23:45.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Koleksi.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Polis_Ahdi\\Polis_Ahdi\\view user\\Koleksi.aspx.vb",
+              "RelativeDocumentMoniker": "Polis_Ahdi\\view user\\Koleksi.aspx.vb",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Polis_Ahdi\\Polis_Ahdi\\view user\\Koleksi.aspx.vb",
+              "RelativeToolTip": "Polis_Ahdi\\view user\\Koleksi.aspx.vb",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAiwH4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-23T10:23:27.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sidebar.ascx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Polis_Ahdi\\Polis_Ahdi\\view user\\Sidebar.ascx",
+              "RelativeDocumentMoniker": "Polis_Ahdi\\view user\\Sidebar.ascx",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Polis_Ahdi\\Polis_Ahdi\\view user\\Sidebar.ascx",
+              "RelativeToolTip": "Polis_Ahdi\\view user\\Sidebar.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-07-23T09:41:48.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Footer.ascx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Polis_Ahdi\\Polis_Ahdi\\view user\\Footer.ascx",
+              "RelativeDocumentMoniker": "Polis_Ahdi\\view user\\Footer.ascx",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Polis_Ahdi\\Polis_Ahdi\\view user\\Footer.ascx",
+              "RelativeToolTip": "Polis_Ahdi\\view user\\Footer.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-07-23T09:40:48.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Beranda.aspx.designer.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Polis_Ahdi\\Polis_Ahdi\\view user\\Beranda.aspx.designer.vb",
+              "RelativeDocumentMoniker": "Polis_Ahdi\\view user\\Beranda.aspx.designer.vb",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Polis_Ahdi\\Polis_Ahdi\\view user\\Beranda.aspx.designer.vb",
+              "RelativeToolTip": "Polis_Ahdi\\view user\\Beranda.aspx.designer.vb",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwCcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-23T09:40:34.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Beranda.aspx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Polis_Ahdi\\Polis_Ahdi\\view user\\Beranda.aspx",
+              "RelativeDocumentMoniker": "Polis_Ahdi\\view user\\Beranda.aspx",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Polis_Ahdi\\Polis_Ahdi\\view user\\Beranda.aspx",
+              "RelativeToolTip": "Polis_Ahdi\\view user\\Beranda.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-07-23T09:40:20.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Akun_m.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Polis_Ahdi\\Polis_Ahdi\\model\\Akun_m.vb",
+              "RelativeDocumentMoniker": "Polis_Ahdi\\model\\Akun_m.vb",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Polis_Ahdi\\Polis_Ahdi\\model\\Akun_m.vb",
+              "RelativeToolTip": "Polis_Ahdi\\model\\Akun_m.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-23T09:38:59.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.aspx.vb",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Polis_Ahdi\\Polis_Ahdi\\view user\\Login.aspx.vb",
+              "RelativeDocumentMoniker": "Polis_Ahdi\\view user\\Login.aspx.vb",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Polis_Ahdi\\Polis_Ahdi\\view user\\Login.aspx.vb",
+              "RelativeToolTip": "Polis_Ahdi\\view user\\Login.aspx.vb",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-07-23T09:18:32.727Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
