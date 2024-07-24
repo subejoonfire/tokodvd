@@ -91,18 +91,18 @@ Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
-<member name="F:Polis_Ahdi.KoleksiPub._HeaderControl">
+<member name="F:Polis_Ahdi.KoleksiPub._form1">
 <summary>
-HeaderControl control.
+form1 control.
 </summary>
 <remarks>
 Auto-generated field.
 To modify move field declaration from designer file to code-behind file.
 </remarks>
 </member>
-<member name="F:Polis_Ahdi.KoleksiPub._form1">
+<member name="F:Polis_Ahdi.KoleksiPub._HeaderControl">
 <summary>
-form1 control.
+HeaderControl control.
 </summary>
 <remarks>
 Auto-generated field.

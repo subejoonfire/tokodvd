@@ -15,6 +15,11 @@ Public Class Koleksi_m
         Dim k As New KoneksiDB
         Return k.GetResult(query)
     End Function
+    Public Function GetKoleksiByGenre(idgen As String) As DataTable
+        Dim query As String = "SELECT * FROM koleksi INNER JOIN genre ON genre.idgen = koleksi.idgenre WHERE genre.idgen = " & idgen
+        Dim k As New KoneksiDB
+        Return k.GetResult(query)
+    End Function
 
     Public Function CreateKoleksi(idgen As Integer, judul As String, tahun As Integer, penerbit As String, cover As Byte(), stok As Integer, harga As Integer) As Boolean
         Dim query As String = "INSERT INTO koleksi (idgenre, judul, tahun, penerbit, cover, stok, harga) VALUES (@idgen, @judul, @tahun, @penerbit, @cover, @stok, @harga)"
