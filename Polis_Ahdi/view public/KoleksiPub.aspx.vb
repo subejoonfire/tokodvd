@@ -39,7 +39,7 @@ Public Class KoleksiPub
             Dim ko As New Koleksi_m()
 
             If genreId = 0 Then
-                dtkol = ko.GetAllKoleksis()
+                dtkol = ko.GetAllKoleksis2()
             Else
                 dtkol = ko.GetKoleksiByGenre(genreId)
             End If

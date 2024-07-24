@@ -44,13 +44,6 @@
                             <br />
                             <asp:GridView ID="GV" runat="server" CssClass="table table-bordered table-striped">
                                 <Columns>
-                                    <asp:BoundField DataField="id_dvd" HeaderText="ID" />
-                                    <asp:BoundField DataField="judul" HeaderText="Judul" />
-                                    <asp:BoundField DataField="tahun" HeaderText="Tahun" />
-                                    <asp:BoundField DataField="penerbit" HeaderText="Penerbit" />
-                                    <asp:BoundField DataField="genre" HeaderText="Genre" />
-                                    <asp:BoundField DataField="stok" HeaderText="Stok" />
-                                    <asp:BoundField DataField="harga" HeaderText="Harga" />
                                         <asp:TemplateField HeaderText="Cover">
                                             <ItemTemplate>
                                                 <asp:Image ID="imgCover" runat="server"  Width="100" Height="100%" ImageUrl='<%# "data:image/jpeg;base64," & Convert.ToBase64String(CType(Eval("cover"), Byte())) %>' />

@@ -15,6 +15,23 @@ Public Class Koleksi_m
         Dim k As New KoneksiDB
         Return k.GetResult(query)
     End Function
+    Public Function GetAllKoleksis2() As DataTable
+        Dim query As String = "SELECT " &
+                  "koleksi.id_dvd AS 'ID DVD', " &
+                  "koleksi.idgenre AS 'ID Genre', " &
+                  "koleksi.judul AS 'Judul', " &
+                  "koleksi.tahun AS 'Tahun', " &
+                  "koleksi.penerbit AS 'Penerbit', " &
+                  "koleksi.cover AS 'Cover', " &
+                  "koleksi.stok AS 'Stok', " &
+                  "koleksi.harga AS 'Harga', " &
+                  "genre.idgen AS 'ID Genre', " &
+                  "genre.genre AS 'Genre' " &
+                  "FROM koleksi " &
+                  "INNER JOIN genre ON genre.idgen = koleksi.idgenre"
+        Dim k As New KoneksiDB
+        Return k.GetResult(query)
+    End Function
     Public Function GetKoleksiByGenre(idgen As String) As DataTable
         Dim query As String = "SELECT * FROM koleksi INNER JOIN genre ON genre.idgen = koleksi.idgenre WHERE genre.idgen = " & idgen
         Dim k As New KoneksiDB

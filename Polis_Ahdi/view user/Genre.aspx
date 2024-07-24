@@ -41,7 +41,7 @@
                     </div>
 
                     <!-- Content Row -->
-                    <div class="row">
+                    <div style="width:auto;">
                         <form id="form1" runat="server">
                             <div class="col-md-6">
                                 <!-- Input Fields to Add New Data -->

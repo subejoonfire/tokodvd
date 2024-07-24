@@ -57,7 +57,7 @@
                                 <!-- Panel for Insert -->
                                 <asp:Panel ID="pnlInsert" runat="server" DefaultButton="btnInsert">
                                     <h3>Tambah Koleksi</h3>
-                                    <table style="width: 100%;" class="table table-bordered">
+                                    <table style="width: auto;" class="table table-bordered">
                                         <tr>
                                             <td>
                                                 <label for="ddlInsertIdgen" class="col-form-label">ID Genre:</label>
